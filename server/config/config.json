@@ -1,0 +1,14 @@
+{
+  "instagram" : {
+      "clientId" : "client_id",
+      "clientSecret" : "client_secret",
+      "callbackUrl" : "callback_url",
+      "redirectUri" : "redirect_uri"
+    },
+    "twitter" : {
+        "consumerKey" : "consumer_key",
+        "consumerSecret" : "consumer_secret",
+        "accessToken" : "access_token",
+        "accessTokenSecret" : "access_token_secret"
+    }
+}

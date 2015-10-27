@@ -1,0 +1,15 @@
+{
+  "name": "client",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Videal LLC",
+  "license": "ISC",
+  "dependencies": {
+    "jade": "*",
+    "express": "^4.13.3"
+  }
+}
